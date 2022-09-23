@@ -1,0 +1,17 @@
+{
+    "HA": {
+        "0": {"name":"NSR", "value":[695,705,0,0,0,0]}
+    },
+    "HV": {
+        "0": {"name":"PA", "value":[9999,9999,0,0,0,0]}
+    },
+    "HAV": {
+        "0": {"name":"Default", "value":[9999,9999,200,300,0,0]}
+    },
+    "Path_A2AV": {
+        "0": {"name": "Default", "value":[65,85]}
+    },
+    "Path_AV2V": {
+        "0": {"name": "Default", "value":[65,85]}
+    }
+}
